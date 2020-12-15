@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: Yoan Andreev
+// Engineer: 
 // 
 // Create Date: 02/16/2020 03:11:30 PM
 // Design Name: 
